@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/saulmm/Desktop/MaterialAlarm/appcompat/build/intermediates/bundles/debug/res/values-w500dp-v13/values.xml -->
+    <eat-comment/>
+    <integer name="abc_max_action_buttons">4</integer>
+</resources>

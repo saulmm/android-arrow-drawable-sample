@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/saulmm/Desktop/MaterialAlarm/appcompat/build/intermediates/bundles/debug/res/values-xlarge-land-v4/values.xml -->
+    <eat-comment/>
+    <dimen name="abc_search_view_text_min_width">256dip</dimen>
+</resources>

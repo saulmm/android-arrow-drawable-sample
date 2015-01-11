@@ -1,0 +1,20 @@
+<resources>
+
+
+    <color name="primary_color">#01BCD4</color>
+    <color name="primary_color_dark">#0194A5</color>
+    <color name="accent">#FFEE4D</color>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+
+        <item name="android:colorPrimary">@color/primary_color</item>
+        <item name="android:colorPrimaryDark">@color/primary_color_dark</item>
+        <item name="android:colorAccent">@color/accent</item>
+
+
+    </style>
+
+
+
+</resources>
